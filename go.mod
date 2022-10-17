@@ -34,7 +34,7 @@ require (
 	github.com/pquerna/otp v1.3.0
 	github.com/shirou/gopsutil/v3 v3.21.10
 	github.com/sirupsen/logrus v1.8.1
-	github.com/spf13/cobra v1.1.1
+	github.com/spf13/cobra v1.6.0
 	github.com/stretchr/testify v1.8.0
 	github.com/things-go/go-socks5 v0.0.3-0.20210722055343-24af464efe43
 	golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90
@@ -80,7 +80,7 @@ require (
 	github.com/google/btree v1.0.1 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
-	github.com/inconshreveable/mousetrap v1.0.0 // indirect
+	github.com/inconshreveable/mousetrap v1.0.1 // indirect
 	github.com/jackc/chunkreader/v2 v2.0.1 // indirect
 	github.com/jackc/pgconn v1.13.0 // indirect
 	github.com/jackc/pgio v1.0.0 // indirect
